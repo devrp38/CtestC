@@ -9,3 +9,4 @@ void main()
       printf("Area of Square: %d",l*b);
 }
 //comment added
+//2nd comment added
