@@ -8,3 +8,4 @@ void main()
       scanf("%d",&b);
       printf("Area of Square: %d",l*b);
 }
+//comment added
