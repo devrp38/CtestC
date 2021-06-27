@@ -6,5 +6,5 @@ void main()
       scanf("%d",&l);
       printf("Enter Breadth:");
       scanf("%d",&b);
-      printf("Area of Rectangle: %d",l*b);
+      printf("Area of Square: %d",l*b);
 }
