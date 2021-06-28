@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-      int l,b;
+      int l,b,i;
       printf("Enter Length:");
       scanf("%d",&l);
       printf("Enter Breadth:");
